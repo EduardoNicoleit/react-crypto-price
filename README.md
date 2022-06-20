@@ -1,4 +1,5 @@
 # This is a Simple website made to practice my React Skills!
+And you should try too!
 
 # Getting Started with Create React App
 
